@@ -1,0 +1,1 @@
+This is my js - and the DOM readme file
